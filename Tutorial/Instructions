@@ -1,5 +1,5 @@
-1. Open the "Igor_Example.pxp" experiemnt in Igor Pro.
-2. Open the "Igor_Basics.ipf" file inside the Experiment.
+1. Open the "Igor_Example.pxp" experiment in Igor Pro.
+2. Open the "Igor_Basics.ipf" file inside the experiment.
 3. Follow the instructions in "Igor_Basics.ipf"
 4. Restarts Igor and see if any errors happen on opening the experiment.
 5. Run the function "Run_Basics()" in the command window (ctr+J)
