@@ -1,1 +1,7 @@
-
+1. Open the "Igor_Example.pxp" experiemnt in Igor Pro.
+2. Open the "Igor_Basics.ipf" file inside the Experiment.
+3. Follow the instructions in "Igor_Basics.ipf"
+4. Restarts Igor and see if any errors happen on opening the experiment.
+5. Run the function "Run_Basics()" in the command window (ctr+J)
+6. Look at the effects of running the function and try to link it to the code inside "Igor_basics.ipf"
+7. Use the provided data inside the "Raw Data" folder in the data browser to complete the rest of the assignments
