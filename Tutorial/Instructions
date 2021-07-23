@@ -5,3 +5,7 @@
 5. Run the function "Run_Basics()" in the command window (ctr+J)
 6. Look at the effects of running the function and try to link it to the code inside "Igor_basics.ipf"
 7. Use the provided data inside the "Raw Data" folder in the data browser to complete the rest of the assignments
+
+
+If you write your own procedures that should be available in other experiments too you can add them to the "call_macros.ipf" file.
+Make sure you save your procedure as a file in the correct place inside the Igor Pro user folder as described in "Igor_basics".
